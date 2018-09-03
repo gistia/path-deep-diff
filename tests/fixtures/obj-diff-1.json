@@ -1,0 +1,56 @@
+{
+  "_id" : "599c950f6a99ce4ae6b6c040",
+  "CaseId" : "599c950f6a99ce4ae6b6c03f",
+  "OrderId" : "17083555",
+  "Children" : [
+    {
+      "OrderId" : "17083555",
+      "PrimaryType" : "MissingInfo",
+      "SecondaryType": null,
+      "MetaInfo" : {
+        "MissingFields" : [
+          { "Field" : "Insurance cards" }
+        ]
+      },
+      "SubCaseId" : "599c950f6a99ce4ae6b6c03e",
+      "Resolution": "Some lol resolution",
+      "Status" : "Open",
+      "CreatedBy" : null,
+      "AssignedTo": "April",
+      "CreatedAt" : "2017-08-22T17:33:19.737-0300",
+      "Notes" : [
+
+      ]
+    },
+    {
+      "OrderId" : "17083553",
+      "PrimaryType" : "MissingInfo",
+      "MetaInfo" : {
+        "MissingFields" : [ { "Field" : "Insurance cards" } ],
+        "SMIRFs" : [ { "Field" : "Insurance cards" } ]
+      },
+      "SubCaseId" : "599c951c6a99ce4ae6b6c041",
+      "Status" : "Open",
+      "CreatedBy" : null,
+      "CreatedAt" : "2017-08-22T20:33:32.780Z",
+      "Notes" : [ {
+        "Type" : "Other",
+        "Text" : "Missing insurance cards-need to contact provider ",
+        "Attachments" : [  ],
+        "NoteId" : "59bfdec2b2d65d7b496e5fe5",
+        "CreatedBy" : "lisa.gailey@progenity.com",
+        "CreatedAt" : "2017-09-18T14:57:06.443Z",
+        "ModifiedBy" : "lisa.gailey@progenity.com",
+        "ModifiedAt" : "2017-09-18T15:21:14.451Z"
+      } ],
+      "ModifiedBy" : "lisa.gailey@progenity.com",
+      "ModifiedAt" : "2017-09-18T15:21:14.451Z",
+      "FollowUp" : "2017-09-20T06:00:00.000Z"
+    }
+
+  ],
+  "CreatedBy" : null,
+  "CreatedAt" : "2017-08-22T17:33:19.737-0300",
+  "LockedBy" : null,
+  "LockedAt" : "2018-01-04T14:34:17.685-0300"
+}
